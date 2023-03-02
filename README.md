@@ -66,4 +66,4 @@ Below are the results after the changes were made in the order described above.
 ## Summary
 Our optimized model performed about as well as the intial model - with an accuracy score of 72.6% and a loss of 0.552. This shows that our optimization methods were not effective in improving the model's performance. 
 
-One way to potentially correct for the classification problem is to potentially instead train and test the data with the RandomForest model because it has been proven to perform as well as, and uses less parameters than, the deep neural networks.
+One way to potentially correct for the classification problem is to instead train and test the data with the RandomForest model because it has been proven to perform as well as, and uses less parameters than, the deep neural networks.
